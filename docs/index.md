@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub NLP
 
 You can use the [editor on GitHub](https://github.com/Nicaulis/Proyectos-NLP/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
