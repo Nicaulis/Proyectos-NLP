@@ -1,9 +1,6 @@
 ## Welcome to GitHub NLP
 
 
-## Welcome to GitHub NLP
-
-
 ## TALLERES
 
 ## Taller 1:  
