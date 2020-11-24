@@ -1,2 +1,10 @@
 ## Welcome to GitHub NLP
-NLP
+
+
+Un acercamiento a lo que es posible realizas con 
+
+## Talleres
+
+
+
+
