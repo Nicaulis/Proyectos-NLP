@@ -5,7 +5,7 @@ Hola Soy Nicaulis Chica, Ingeniero de Sistemas, apasionada por el Marketing y la
 Esta es una muestra de lo que he aprendido en la Especialización en Analítica extrategica de Datos.
 Esta es una muestra de lo que he aprendido en la Especialización en Analítica de Datos
 
-## Empecemos  
+## Como emezamos  
 -	Creación cuenta GitHub 
 -	Cuenta desarrollador Twitter
 
