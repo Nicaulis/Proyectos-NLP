@@ -1,81 +1,67 @@
 ## Welcome to GitHub NLP
 
 
+Hola…. Soy Nicaulis Chica, Ingeniero de Sistemas, apasionada por el Marketing y la Psicología del Consumidor. Es en esta área donde me desempeño.  Sin embargo, estoy preparándome para convertirme en Científica de Datos, 
+Esta es una muestra de lo que he aprendido en la Especialización en Analítica estratégica de Datos.
 
-## TALLERES
-
-## Taller 1:  
+## 1 Taller  
 -	Creación cuenta GitHub 
 -	Cuenta desarrollador Twitter
 
-## Taller 2:  Adquisición de Datos.ipynb
+## 2. Adquisición de Datos.ipynb
 
-Descomprimir un archivo
--	Leer archivo 
--	Hacer Web Scraping, Obtener el encabezado 
--	contenidos y etiquetas de título asociados a los links del primer párrafo
+-	Descomprimir archivos, hacer Web Scraping, para obtener el encabezado 
+-	contenidos y etiquetas de título asociados a los links del primer párrafo.
 
-## Taller 3: Pre-Procesamiento de Textos - Solución.ipynb
--	Leer archivo 
--	Convertir a minúsculas
+## 3. Pre-Procesamiento de Textos - Solución.ipynb
+-	Limpiar los datos de un archivo de texto, convertir a minúsculas
 -	Tokenizar
 
-## Taller 4: Ingeniería de características.ipynb
-Feature Engineering
+## 4. Ingeniería de características.ipynb
+-	Feature Engineering
 -	Pre-Procesamiento -Datos nueva columna
 -	Representación vectorial - BoW usando la columna pre-procesada
 
-## Taller 5:  TFIDF.ipynb
--	Pre-Procesamiento -Datos nueva columna
+## 5. TFIDF.ipynb
 -	Crear la matriz TF-IDF
--	 Distancia del coseno
+-	Distancia del coseno
 
-## Taller 6: Word2Vec.ipynb
--	Leer archivo 
--	Preprocesamiento 
+## 6.  Word2Vec.ipynb
+
 -	Modelo: Word2Vec
 -	Visualizacion PCA
 
-## Taller 7: Clasificación y Agrupación.ipynb
--	Cargar datos
+## 7. Clasificación y Agrupación.ipynb
 -	Dividir el conjunto de datos en entrenamiento y prueba
--	pre-procesamiento del texto
 -	Entrenar el modelo: Regresión Logística
 -	Métricas de evaluación: Exactitud, precisión y sensibilidad
 -	Matriz de confusión
-### Método del codo para determinar k
+-	Método del codo para determinar k
 -	Entrenar modelo 
-#### Visualización usando PCA
+-	Visualización usando PCA
 
-## Taller 8: Modelado de Temas.ipynb
--	Cargar datos
--	pre-procesamiento del texto
+## 8.  Modelado de Temas.ipynb
 -	Modelo de LDA
 -	Visualización de LDA
-- representación de los documentos en forma de diccionario
-- Filtrar palabras muy frecuentes o infrecuentes
-- Train the topic model
+-	representación de los documentos en forma de diccionario
+-	Filtrar palabras muy frecuentes o infrecuentes
+-	Train the topic model
 
-## Taller 9: visualización Nube de Palabras
--	#Cargar Texto
+## 9.  visualización Nube de Palabras
 -	Pasar imagen lenguaje de computador
--	Cargar imagen 
+-	Cargar imagen y hacer un castillo con las palabras más frecuentes
 
-## Taller 10: Twitter.ipynb
--	Leer llaves de Twitter
--	Autorizar a través API
--	Para el ejercicio cargar archivo ciudades
--	Seleccionar tema witter y cantidad a extraer
+
+## 10. Twitter.ipynb
+-	Leer llaves de Twitter y autorizar a través API
+-	Seleccionar temas de twiters 
 -	Pre_ Prosesamiento twiters
--	visualización sobre esos tuits
+-	visualización de esos tuits
 
-## Taller 11:  Sentimiento.ipynb
--	Análisis de tuis taller 10 
+## 11.  Sentimiento.ipynb
 -	traducir tweet a ingles
 -	Análisis:  sent_flair
 -	Columna con el puntaje numérico del sentimiento
--	Cuál es el tuit más positivo y negativo
--	Cuántos tuits positivos/negativos hay en sus datos?
--	Conteo por tipo de sentimiento 
--	visualización Diagrama de barras 
+-	Total tuits por categoría. Tuit más positivo y negativo
+-	visualización en diagrama de barras 
 
