@@ -1,7 +1,7 @@
 
 ## Welcome to GitHub NLP
   
-Hola Soy Nicaulis Chica. Apasionada por el Marketing   y la Psicología del Consumidor: Es esta área donde me desempeño. Sin embargo, estoy preparándome para convertirme en Científica de Datos, “buena combinación”         
+Hola Soy Nicaulis Chica. Apasionada por el Marketing y la Psicología del Consumidor: Es esta área donde me desempeño. Sin embargo, estoy preparándome para convertirme en Científica de Datos, “buena combinación"         
 Esta es una muestra de lo que he aprendido en la Especialización en Analítica Estratégica de Datos. 
 
 ## Como Empezamos  
