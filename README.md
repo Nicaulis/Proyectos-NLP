@@ -1,9 +1,7 @@
 # Proyectos-NLP
 ## Welcome to GitHub NLP
 
-Hola Soy Nicaulis Chica, Ingeniero de Sistemas, apasionada por el Marketing y la Psicología del Consumidor:  Es en esta área donde me desempeño.  Sin embargo, estoy preparándome para convertirme en Científica de Datos, 
-Esta es una muestra de lo que he aprendido en la Especialización en Analítica extrategica de Datos.
-Esta es una muestra de lo que he aprendido en la Especialización en Analítica de Datos
+Hola Soy Nicaulis Chica, Apasionada por el Marketing y la Psicología del Consumidor. Es en esta área donde me desempeño. Sin embargo, estoy preparándome para convertirme en Científica de Datos, Esta es una muestra de lo que he aprendido en la Especialización en Analítica estratégica de Datos.          
 
 ## Como Empezamos  
 -	Creación cuenta GitHub 
