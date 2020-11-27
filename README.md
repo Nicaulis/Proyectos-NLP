@@ -27,10 +27,8 @@ Esta es una muestra de lo que he aprendido en la Especialización en Analítica 
 -	Distancia del coseno
 
 ## 6.  Word2Vec.ipynb
-
 -	Modelo: Word2Vec
 -	Visualizacion PCA
-
 
 ## 7. Clasificación y Agrupación.ipynb
 -	Dividir el conjunto de datos en entrenamiento y prueba
@@ -41,7 +39,6 @@ Esta es una muestra de lo que he aprendido en la Especialización en Analítica 
 -	Entrenar modelo 
 -	Visualización usando PCA
 
-
 ## 8.  Modelado de Temas.ipynb
 -	Modelo de LDA
 -	Visualización de LDA
@@ -49,23 +46,19 @@ Esta es una muestra de lo que he aprendido en la Especialización en Analítica 
 -	Filtrar palabras muy frecuentes o infrecuentes
 -	Train the topic model
 
-
 ## 9.  visualización Nube de Palabras
 -	Pasar imagen lenguaje de computador
 -	Cargar imagen y hacer un castillo con las palabras más frecuentes
 
-
 ## 10. Twitter.ipynb
-•	Leer llaves de Twitter y autorizar a través API … No las puedes ver!!!
-•	Seleccionar temas de twiters
-•	Pre_ Procesamiento twiters
-•	Visualización de esos tuits
-
+- Leer llaves de Twitter y autorizar a través API … No las puedes ver!!!
+- Seleccionar temas de twiters
+- Pre_ Procesamiento twiters
+-	Visualización de esos tuits
 
 ## 11.  Sentimiento.ipynb
-•	Traducir twiters a ingles
-•	Análisis: sent_flair
-•	Columna con el puntaje numérico del sentimiento
-•	Total tuits por categoría. Tuit más positivo y negativo
+-	Traducir twiters a ingles
+-	Análisis: sent_flair
+-	Columna con el puntaje numérico del sentimiento
+-	Total tuits por categoría. Tuit más positivo y negativo
 •	Visualización en diagrama de barras
-
