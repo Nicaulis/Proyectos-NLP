@@ -1,7 +1,8 @@
-# Proyectos-NLP
-## Welcome to GitHub NLP
 
-Hola Soy Nicaulis Chica, Apasionada por el Marketing y la Psicología del Consumidor. Es en esta área donde me desempeño. Sin embargo, estoy preparándome para convertirme en Científica de Datos, Esta es una muestra de lo que he aprendido en la Especialización en Analítica estratégica de Datos.          
+## Welcome to GitHub NLP
+  
+Hola Soy Nicaulis Chica. Apasionada por el Marketing y la Psicología del Consumidor: Es esta área donde me desempeño. Sin embargo, estoy preparándome para convertirme en Científica de Datos, “buena combinación”       
+Esta es una muestra de lo que he aprendido en la Especialización en Analítica Estratégica de Datos. 
 
 ## Como Empezamos  
 -	Creación cuenta GitHub 
@@ -55,17 +56,15 @@ Hola Soy Nicaulis Chica, Apasionada por el Marketing y la Psicología del Consum
 
 
 ## 10. Twitter.ipynb
--	Leer llaves de Twitter y autorizar a través API
--	Seleccionar temas de twiters 
--	Pre_ Prosesamiento twiters
--	visualización de esos tuits
+•	Leer llaves de Twitter y autorizar a través API … No las puedes ver!!!
+•	Seleccionar temas de twiters
+•	Pre_ Procesamiento twiters
+•	Visualización de esos tuits
+
 
 ## 11.  Sentimiento.ipynb
--	traducir tweet a ingles
--	Análisis:  sent_flair
--	Columna con el puntaje numérico del sentimiento
--	Total tuits por categoría. Tuit más positivo y negativo
--	visualización en diagrama de barras 
-
-
-
+•	Traducir twiters a ingles
+•	Análisis: sent_flair
+•	Columna con el puntaje numérico del sentimiento
+•	Total tuits por categoría. Tuit más positivo y negativo
+•	Visualización en diagrama de barras
