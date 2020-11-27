@@ -1,6 +1,5 @@
 ## Welcome to GitHub NLP
 
-
 Hola…. Soy Nicaulis Chica, Ingeniero de Sistemas, apasionada por el Marketing y la Psicología del Consumidor. Es en esta área donde me desempeño.  Sin embargo, estoy preparándome para convertirme en Científica de Datos, 
 Esta es una muestra de lo que he aprendido en la Especialización en Analítica estratégica de Datos.
 
@@ -9,7 +8,6 @@ Esta es una muestra de lo que he aprendido en la Especialización en Analítica 
 -	Cuenta desarrollador Twitter
 
 ## 2. Adquisición de Datos.ipynb
-
 -	Descomprimir archivos, hacer Web Scraping, para obtener el encabezado 
 -	contenidos y etiquetas de título asociados a los links del primer párrafo.
 
@@ -27,7 +25,6 @@ Esta es una muestra de lo que he aprendido en la Especialización en Analítica 
 -	Distancia del coseno
 
 ## 6.  Word2Vec.ipynb
-
 -	Modelo: Word2Vec
 -	Visualizacion PCA
 
@@ -53,15 +50,16 @@ Esta es una muestra de lo que he aprendido en la Especialización en Analítica 
 
 
 ## 10. Twitter.ipynb
--	Leer llaves de Twitter y autorizar a través API
--	Seleccionar temas de twiters 
+- Leer llaves de Twitter y autorizar a través API
+- Seleccionar temas de twiters 
 -	Pre_ Prosesamiento twiters
--	visualización de esos tuits
+-	Visualización de esos tuits
+
 
 ## 11.  Sentimiento.ipynb
 -	traducir tweet a ingles
 -	Análisis:  sent_flair
 -	Columna con el puntaje numérico del sentimiento
 -	Total tuits por categoría. Tuit más positivo y negativo
--	visualización en diagrama de barras 
+-	Visualización en diagrama de barras 
 
