@@ -63,3 +63,7 @@ Esta es una muestra de lo que he aprendido en la Especialización en Analítica 
 -	Total tuits por categoría. Tuit más positivo y negativo
 -	Visualización en diagrama de barras 
 
+
+## Proyecto
+- Que dicen las canciones..... collage de Word2Vec.ipynb y Modelado de Temas
+ 
