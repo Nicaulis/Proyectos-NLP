@@ -60,5 +60,10 @@ Esta es una muestra de lo que he aprendido en la Especialización en Analítica 
 -	Traducir twiters a ingles
 -	Análisis: sent_flair
 -	Columna con el puntaje numérico del sentimiento
--	Total tuits por categoría. Tuit más positivo y negativo
-•	Visualización en diagrama de barras
+-	Total tuits por categoría. Tuit más positivo y negatio
+-	Visualización en diagrama de barras   
+
+## Proyecto
+
+- Que dicen las canciones ..... collage de Word2Vec.ipynb y Modelado de Temas
+
